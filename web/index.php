@@ -52,6 +52,6 @@ $bug = $bug_report->fetchAll(PDO::FETCH_ASSOC); // Grab the data
         </table>
       </div>
     </div>
-<span class="credits">&copy; 2016 Subject_Alpha - <a href="https://github.com/Lunaversitay/Bug-Reporter/tree/master/web" style="color:#fff;">Fork</a></span>
+<span class="credits">&copy; 2016 Subject_Alpha</span>
   </body>
 </html>
